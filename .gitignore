@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Other
+*.pem
+*.key
+*.env
+
+# MacOS
+.DS_Store
+desktop.ini
